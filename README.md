@@ -1,5 +1,3 @@
-# Homework-Day-3
-
 ## Exercise A
 
 ### Given the following data structure:
